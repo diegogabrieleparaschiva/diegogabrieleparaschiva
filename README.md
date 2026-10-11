@@ -8,7 +8,7 @@ Currently, I am focused on building a robust foundation across multiple cybersec
 ---
 
 ### 🎯 Current Focus
-- 🔐 - 🔐 **Learning:** Actively studying **offensive security** methodologies and **penetration testing** techniques, with a strong focus on identifying and exploiting web application vulnerabilities (e.g., XSS, SQLi, IDOR).
+- 🔐 **Learning:** Actively studying **offensive security** methodologies and **penetration testing** techniques, with a strong focus on identifying and exploiting web application vulnerabilities (e.g., XSS, SQLi, IDOR).
 - 📝 **Documenting:** Building a portfolio of technical write-ups and walkthroughs to demonstrate my methodology and problem-solving skills.
 - 🚀 **Seeking Opportunities:** Actively looking for **internships or collaborative projects** to gain hands-on experience and apply my theoretical knowledge in a real-world environment.
 
